@@ -11,5 +11,5 @@ git clone git@github.com:pghalliday-dotfiles/xmonad.git ~/.xmonad
 ```
 xmobar
 xscreensaver
-rxvt-unicode
+rxvt-unicode-patched (yaourt)
 ```
