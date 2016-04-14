@@ -1,9 +1,8 @@
 # xmonad
 
-Clone to `~/.xmonad`
-
 ```
-git clone git@github.com:pghalliday-dotfiles/xmonad.git ~/.xmonad
+cd ~
+git clone git@github.com:pghalliday-dotfiles/.xmonad.git
 ```
 
 ## depends
